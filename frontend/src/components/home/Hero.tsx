@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from '../common/Button';
-import { ArrowRight, ShieldCheck, Zap, Stethoscope, FileText, Activity } from 'lucide-react';
+import { ArrowRight, ShieldCheck, Zap, Stethoscope, Activity } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export const Hero: React.FC = () => {
