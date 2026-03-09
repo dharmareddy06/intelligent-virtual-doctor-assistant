@@ -1,0 +1,170 @@
+[
+    {
+        "entity": "B-Age",
+        "score": 0.9996403455734253,
+        "index": 4,
+        "word": "45",
+        "start": 13,
+        "end": 15
+    },
+    {
+        "entity": "I-Age",
+        "score": 0.9969964027404785,
+        "index": 5,
+        "word": "-",
+        "start": 15,
+        "end": 16
+    },
+    {
+        "entity": "I-Age",
+        "score": 0.9979071617126465,
+        "index": 6,
+        "word": "year",
+        "start": 16,
+        "end": 20
+    },
+    {
+        "entity": "I-Age",
+        "score": 0.9959296584129333,
+        "index": 7,
+        "word": "-",
+        "start": 20,
+        "end": 21
+    },
+    {
+        "entity": "I-Age",
+        "score": 0.9965255856513977,
+        "index": 8,
+        "word": "old",
+        "start": 21,
+        "end": 24
+    },
+    {
+        "entity": "B-Sex",
+        "score": 0.9992380142211914,
+        "index": 9,
+        "word": "male",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "entity": "B-Clinical_event",
+        "score": 0.7719727754592896,
+        "index": 10,
+        "word": "presenting",
+        "start": 30,
+        "end": 40
+    },
+    {
+        "entity": "B-Severity",
+        "score": 0.9997854828834534,
+        "index": 12,
+        "word": "severe",
+        "start": 46,
+        "end": 52
+    },
+    {
+        "entity": "B-History",
+        "score": 0.9640685319900513,
+        "index": 25,
+        "word": "hyper",
+        "start": 102,
+        "end": 107
+    },
+    {
+        "entity": "I-History",
+        "score": 0.9975115060806274,
+        "index": 26,
+        "word": "##tension",
+        "start": 107,
+        "end": 114
+    },
+    {
+        "entity": "B-History",
+        "score": 0.9656760692596436,
+        "index": 28,
+        "word": "type",
+        "start": 119,
+        "end": 123
+    },
+    {
+        "entity": "I-History",
+        "score": 0.9970805048942566,
+        "index": 29,
+        "word": "2",
+        "start": 124,
+        "end": 125
+    },
+    {
+        "entity": "I-History",
+        "score": 0.9938814640045166,
+        "index": 30,
+        "word": "diabetes",
+        "start": 126,
+        "end": 134
+    },
+    {
+        "entity": "B-Dosage",
+        "score": 0.9986334443092346,
+        "index": 34,
+        "word": "400",
+        "start": 154,
+        "end": 157
+    },
+    {
+        "entity": "I-Dosage",
+        "score": 0.9977185726165771,
+        "index": 35,
+        "word": "##mg",
+        "start": 157,
+        "end": 159
+    },
+    {
+        "entity": "B-Medication",
+        "score": 0.999797523021698,
+        "index": 36,
+        "word": "ib",
+        "start": 160,
+        "end": 162
+    },
+    {
+        "entity": "I-Medication",
+        "score": 0.9969691634178162,
+        "index": 37,
+        "word": "##up",
+        "start": 162,
+        "end": 164
+    },
+    {
+        "entity": "I-Medication",
+        "score": 0.999294638633728,
+        "index": 38,
+        "word": "##ro",
+        "start": 164,
+        "end": 166
+    },
+    {
+        "entity": "I-Medication",
+        "score": 0.9989789724349976,
+        "index": 39,
+        "word": "##fen",
+        "start": 166,
+        "end": 169
+    },
+    {
+        "entity": "B-Sign_symptom",
+        "score": 0.9999074935913086,
+        "index": 42,
+        "word": "headache",
+        "start": 178,
+        "end": 186
+    },
+    {
+        "entity": "B-Diagnostic_procedure",
+        "score": 0.9999599456787109,
+        "index": 46,
+        "word": "mri",
+        "start": 206,
+        "end": 209
+    }
+]

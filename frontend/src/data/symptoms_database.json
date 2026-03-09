@@ -1,0 +1,2432 @@
+{
+  "diseases": [
+    {
+      "name": "Common Cold and Flu",
+      "symptoms": ["Fever", "Cough", "Runny nose", "Sore throat", "Fatigue"],
+      "medicines": [
+        "Acetaminophen (Tylenol)",
+        "Ibuprofen (Advil)",
+        "Dextromethorphan (Delsym)",
+        "Guaifenesin (Mucinex)",
+        "Pseudoephedrine (Sudafed)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Warm chicken broth",
+          "Ginger tea",
+          "Honey and lemon water",
+          "Garlic",
+          "Citrus fruits (Vitamin C)"
+        ],
+        "foods_to_avoid": [
+          "Dairy products (can thicken mucus)",
+          "Sugary drinks",
+          "Fried and greasy foods",
+          "Caffeine",
+          "Alcohol"
+        ],
+        "advice": "Stay hydrated, rest adequately, and consume warm liquids to soothe the throat and clear congestion."
+      }
+    },
+    {
+      "name": "Migraine and Severe Headache",
+      "symptoms": [
+        "Severe headache",
+        "Throbbing pain",
+        "Sensitivity to light",
+        "Sensitivity to sound",
+        "Nausea"
+      ],
+      "medicines": [
+        "Sumatriptan (Imitrex)",
+        "Ibuprofen (Advil)",
+        "Naproxen (Aleve)",
+        "Excedrin Migraine",
+        "Rizatriptan (Maxalt)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Magnesium-rich foods (spinach, almonds)",
+          "Omega-3 rich fish (salmon)",
+          "Water (stay highly hydrated)",
+          "Ginger (helps with nausea)",
+          "Watermelon"
+        ],
+        "foods_to_avoid": [
+          "Aged cheeses",
+          "Processed meats (containing nitrites)",
+          "Red wine and alcohol",
+          "Artificial sweeteners",
+          "Excessive caffeine"
+        ],
+        "advice": "Rest in a dark, quiet room, apply a cold compress to your forehead, and maintain consistent meal schedules."
+      }
+    },
+    {
+      "name": "Gastroenteritis (Stomach Flu)",
+      "symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Diarrhea",
+        "Stomach cramps",
+        "Low-grade fever"
+      ],
+      "medicines": [
+        "Ondansetron (Zofran)",
+        "Bismuth subsalicylate (Pepto-Bismol)",
+        "Loperamide (Imodium)",
+        "Acetaminophen (Tylenol - for fever)",
+        "Oral Rehydration Salts (ORS)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "BRAT diet (Bananas, Rice, Applesauce, Toast)",
+          "Clear broths",
+          "Electrolyte beverages",
+          "Saltine crackers",
+          "Oatmeal"
+        ],
+        "foods_to_avoid": [
+          "Dairy products",
+          "Spicy foods",
+          "High-fiber foods",
+          "Greasy or fried foods",
+          "Sugary treats"
+        ],
+        "advice": "Focus heavily on fluid and electrolyte replacement. Introduce bland solid foods slowly as symptoms improve."
+      }
+    },
+    {
+      "name": "Acid Reflux and Heartburn",
+      "symptoms": [
+        "Heartburn",
+        "Acid regurgitation",
+        "Chest pain after eating",
+        "Difficulty swallowing",
+        "Feeling of a lump in throat"
+      ],
+      "medicines": [
+        "Omeprazole (Prilosec)",
+        "Pantoprazole (Protonix)",
+        "Famotidine (Pepcid)",
+        "Esomeprazole (Nexium)",
+        "Calcium carbonate (Tums)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Oatmeal and whole grains",
+          "Non-citrus fruits (melons, bananas, apples)",
+          "Lean poultry and meats",
+          "Root vegetables (carrots, sweet potatoes)",
+          "Ginger"
+        ],
+        "foods_to_avoid": [
+          "Citrus fruits and juices",
+          "Tomatoes and tomato-based products",
+          "Chocolate",
+          "Peppermint",
+          "Spicy and fatty foods"
+        ],
+        "advice": "Eat smaller, more frequent meals. Avoid eating within 3 hours of bedtime and elevate the head of your bed."
+      }
+    },
+    {
+      "name": "Allergies and Hay Fever",
+      "symptoms": [
+        "Sneezing",
+        "Runny nose",
+        "Itchy eyes",
+        "Watery eyes",
+        "Nasal congestion"
+      ],
+      "medicines": [
+        "Cetirizine (Zyrtec)",
+        "Loratadine (Claritin)",
+        "Fexofenadine (Allegra)",
+        "Levocetirizine (Xyzal)",
+        "Fluticasone nasal spray (Flonase)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Local honey",
+          "Foods high in Quercetin (apples, onions, berries)",
+          "Vitamin C-rich foods (bell peppers, broccoli)",
+          "Pineapple (contains bromelain)",
+          "Fatty fish (Salmon)"
+        ],
+        "foods_to_avoid": [
+          "Aged cheeses",
+          "Fermented foods",
+          "Tomatoes (can trigger histamine)",
+          "Alcohol (especially wine)",
+          "Processed meats"
+        ],
+        "advice": "Try to identify and avoid your allergens. Keep windows closed during high pollen seasons and use air purifiers."
+      }
+    },
+    {
+      "name": "Muscle Aches and Joint Pain",
+      "symptoms": [
+        "Muscle ache",
+        "Joint pain",
+        "Stiffness",
+        "Swelling",
+        "Reduced range of motion"
+      ],
+      "medicines": [
+        "Ibuprofen (Advil)",
+        "Naproxen (Aleve)",
+        "Diclofenac gel (Voltaren)",
+        "Meloxicam (Mobic)",
+        "Celecoxib (Celebrex)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Fatty fish (Salmon, Mackerel)",
+          "Turmeric and ginger",
+          "Walnuts and flaxseeds",
+          "Berries (Cherries, blueberries)",
+          "Leafy greens (Spinach, Kale)"
+        ],
+        "foods_to_avoid": [
+          "Refined carbohydrates",
+          "Fried foods",
+          "Sugar and high-fructose corn syrup",
+          "Processed meats",
+          "Excessive alcohol"
+        ],
+        "advice": "Engage in gentle stretching and physical therapy. Apply ice to acute injuries and heat to chronic stiffness."
+      }
+    },
+    {
+      "name": "Constipation",
+      "symptoms": [
+        "Infrequent bowel movements",
+        "Straining",
+        "Hard or lumpy stools",
+        "Feeling of incomplete evacuation",
+        "Abdominal pain"
+      ],
+      "medicines": [
+        "Polyethylene glycol (Miralax)",
+        "Bisacodyl (Dulcolax)",
+        "Docusate sodium (Colace)",
+        "Psyllium husk (Metamucil)",
+        "Senna (Senokot)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "High-fiber fruits (Apples, Pears, Prunes)",
+          "Vegetables (Broccoli, Brussels sprouts)",
+          "Whole grains and bran",
+          "Legumes (Beans, Lentils)",
+          "Plenty of water"
+        ],
+        "foods_to_avoid": [
+          "Dairy products",
+          "Processed foods",
+          "Fried and fast foods",
+          "Red meat",
+          "Unripe bananas"
+        ],
+        "advice": "Gradually increase dietary fiber to prevent bloating. Drink plenty of water and engage in regular physical activity."
+      }
+    },
+    {
+      "name": "Asthma and Shortness of Breath",
+      "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Chest tightness",
+        "Coughing fits",
+        "Rapid breathing"
+      ],
+      "medicines": [
+        "Albuterol (ProAir HFA)",
+        "Fluticasone (Flovent HFA)",
+        "Budesonide/Formoterol (Symbicort)",
+        "Montelukast (Singulair)",
+        "Salmeterol (Serevent)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Apples and citrus fruits",
+          "Foods high in Vitamin D (fortified milk, eggs)",
+          "Carrots and sweet potatoes (Beta-carotene)",
+          "Pomegranate",
+          "Ginger"
+        ],
+        "foods_to_avoid": [
+          "Sulfites (found in wine, dried fruits)",
+          "Foods causing gas or bloating (beans, cabbage)",
+          "Artificial ingredients and preservatives",
+          "Salty foods",
+          "Aged cheeses"
+        ],
+        "advice": "Identify asthma triggers and avoid them. Always carry your rescue inhaler and sit upright during an attack."
+      }
+    },
+    {
+      "name": "Gastritis and Acid Reflux",
+      "symptoms": [
+        "Burning sensation in stomach",
+        "Heartburn",
+        "Bloating",
+        "Nausea",
+        "Indigestion"
+      ],
+      "medicines": [
+        "Omeprazole (Prilosec)",
+        "Pantoprazole (Protonix)",
+        "Famotidine (Pepcid)",
+        "Antacids (Tums)",
+        "Lansoprazole (Prevacid)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Bananas",
+          "Oatmeal",
+          "Boiled vegetables",
+          "Yogurt",
+          "Coconut water"
+        ],
+        "foods_to_avoid": [
+          "Spicy foods",
+          "Fried foods",
+          "Caffeinated drinks",
+          "Carbonated beverages",
+          "Chocolate"
+        ],
+        "advice": "Eat small meals, avoid lying down after eating, and reduce spicy or oily foods."
+      }
+    },
+    {
+      "name": "Diarrhea",
+      "symptoms": [
+        "Loose stools",
+        "Abdominal cramps",
+        "Dehydration",
+        "Nausea",
+        "Frequent bowel movements"
+      ],
+      "medicines": [
+        "Loperamide (Imodium)",
+        "Bismuth Subsalicylate (Pepto-Bismol)",
+        "Racecadotril",
+        "Oral Rehydration Salts (ORS)",
+        "Probiotics"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Bananas",
+          "White rice",
+          "Applesauce",
+          "Toast",
+          "Coconut water"
+        ],
+        "foods_to_avoid": [
+          "Dairy products",
+          "Spicy foods",
+          "Fried foods",
+          "Alcohol",
+          "Caffeinated drinks"
+        ],
+        "advice": "Follow the BRAT diet and drink plenty of fluids to prevent dehydration."
+      }
+    },
+    {
+      "name": "Hypertension (High Blood Pressure)",
+      "symptoms": [
+        "Headache",
+        "Dizziness",
+        "Shortness of breath",
+        "Chest discomfort",
+        "Fatigue"
+      ],
+      "medicines": [
+        "Amlodipine (Norvasc)",
+        "Lisinopril (Prinivil)",
+        "Losartan (Cozaar)",
+        "Hydrochlorothiazide",
+        "Metoprolol (Lopressor)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Leafy green vegetables",
+          "Bananas",
+          "Whole grains",
+          "Low-fat dairy",
+          "Fish rich in omega-3"
+        ],
+        "foods_to_avoid": [
+          "High-salt foods",
+          "Processed foods",
+          "Red meat",
+          "Sugary beverages",
+          "Alcohol"
+        ],
+        "advice": "Follow a low-sodium DASH diet and maintain regular physical activity."
+      }
+    },
+    {
+      "name": "Type 2 Diabetes",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Fatigue",
+        "Blurred vision",
+        "Slow wound healing"
+      ],
+      "medicines": [
+        "Metformin (Glucophage)",
+        "Glipizide (Glucotrol)",
+        "Insulin",
+        "Sitagliptin (Januvia)",
+        "Pioglitazone (Actos)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Whole grains",
+          "Leafy vegetables",
+          "Beans and legumes",
+          "Nuts",
+          "Lean protein"
+        ],
+        "foods_to_avoid": [
+          "Sugary drinks",
+          "Refined carbohydrates",
+          "White bread",
+          "Sweets",
+          "Fried foods"
+        ],
+        "advice": "Monitor carbohydrate intake and maintain balanced meals to control blood sugar."
+      }
+    },
+    {
+      "name": "Asthma",
+      "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Chest tightness",
+        "Coughing",
+        "Difficulty breathing"
+      ],
+      "medicines": [
+        "Albuterol (Ventolin)",
+        "Budesonide (Pulmicort)",
+        "Montelukast (Singulair)",
+        "Fluticasone (Flovent)",
+        "Ipratropium (Atrovent)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Fruits rich in vitamin C",
+          "Leafy vegetables",
+          "Whole grains",
+          "Omega-3 rich fish",
+          "Nuts and seeds"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Foods with sulfites",
+          "Excess salt",
+          "Fried foods",
+          "Sugary drinks"
+        ],
+        "advice": "Maintain a healthy diet and avoid allergens or triggers that worsen breathing."
+      }
+    },
+    {
+      "name": "Iron Deficiency Anemia",
+      "symptoms": [
+        "Fatigue",
+        "Pale skin",
+        "Dizziness",
+        "Shortness of breath",
+        "Weakness"
+      ],
+      "medicines": [
+        "Ferrous Sulfate",
+        "Iron Polysaccharide",
+        "Vitamin B12 Supplements",
+        "Folic Acid",
+        "Erythropoietin"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Spinach",
+          "Red meat",
+          "Beans and lentils",
+          "Pomegranate",
+          "Fortified cereals"
+        ],
+        "foods_to_avoid": [
+          "Coffee with meals",
+          "Tea with meals",
+          "High calcium foods with iron",
+          "Processed foods",
+          "Sugary snacks"
+        ],
+        "advice": "Increase iron-rich foods and consume vitamin C to improve iron absorption."
+      }
+    },
+    {
+      "name": "Seasonal Allergic Rhinitis",
+      "symptoms": [
+        "Sneezing",
+        "Runny nose",
+        "Itchy eyes",
+        "Nasal congestion",
+        "Watery eyes"
+      ],
+      "medicines": [
+        "Loratadine (Claritin)",
+        "Cetirizine (Zyrtec)",
+        "Fexofenadine (Allegra)",
+        "Fluticasone nasal spray (Flonase)",
+        "Diphenhydramine (Benadryl)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Ginger tea",
+          "Turmeric milk",
+          "Citrus fruits",
+          "Honey",
+          "Leafy vegetables"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Alcohol",
+          "Excess dairy",
+          "Sugary foods",
+          "Artificial additives"
+        ],
+        "advice": "Avoid allergens like pollen and dust, and keep indoor air clean."
+      }
+    },
+    {
+      "name": "Acute Bronchitis",
+      "symptoms": [
+        "Persistent cough",
+        "Chest discomfort",
+        "Fatigue",
+        "Shortness of breath",
+        "Mild fever"
+      ],
+      "medicines": [
+        "Dextromethorphan (Delsym)",
+        "Guaifenesin (Mucinex)",
+        "Ibuprofen (Advil)",
+        "Acetaminophen (Tylenol)",
+        "Albuterol inhaler"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Warm herbal tea",
+          "Chicken soup",
+          "Ginger",
+          "Garlic",
+          "Citrus fruits"
+        ],
+        "foods_to_avoid": [
+          "Cold drinks",
+          "Fried foods",
+          "Sugary beverages",
+          "Alcohol",
+          "Smoking"
+        ],
+        "advice": "Drink warm fluids and get enough rest to support recovery."
+      }
+    },
+    {
+      "name": "Urinary Tract Infection",
+      "symptoms": [
+        "Burning sensation during urination",
+        "Frequent urination",
+        "Cloudy urine",
+        "Pelvic pain",
+        "Strong urge to urinate"
+      ],
+      "medicines": [
+        "Nitrofurantoin (Macrobid)",
+        "Trimethoprim-Sulfamethoxazole (Bactrim)",
+        "Fosfomycin",
+        "Ciprofloxacin",
+        "Amoxicillin"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Cranberry juice",
+          "Water",
+          "Probiotic yogurt",
+          "Blueberries",
+          "Garlic"
+        ],
+        "foods_to_avoid": [
+          "Caffeine",
+          "Alcohol",
+          "Spicy foods",
+          "Sugary drinks",
+          "Carbonated beverages"
+        ],
+        "advice": "Drink plenty of water and maintain proper hygiene."
+      }
+    },
+    {
+      "name": "Constipation",
+      "symptoms": [
+        "Infrequent bowel movements",
+        "Hard stools",
+        "Abdominal discomfort",
+        "Straining during bowel movements",
+        "Bloating"
+      ],
+      "medicines": [
+        "Polyethylene Glycol (Miralax)",
+        "Bisacodyl (Dulcolax)",
+        "Senna",
+        "Lactulose",
+        "Magnesium Hydroxide (Milk of Magnesia)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Whole grains",
+          "Prunes",
+          "Apples",
+          "Vegetables",
+          "Plenty of water"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Fast foods",
+          "Excess dairy",
+          "Red meat",
+          "Sugary snacks"
+        ],
+        "advice": "Increase fiber intake and maintain regular physical activity."
+      }
+    },
+    {
+      "name": "Chickenpox",
+      "symptoms": [
+        "Itchy rash",
+        "Fever",
+        "Fatigue",
+        "Loss of appetite",
+        "Headache"
+      ],
+      "medicines": [
+        "Acetaminophen (Tylenol)",
+        "Calamine lotion",
+        "Acyclovir",
+        "Diphenhydramine (Benadryl)",
+        "Ibuprofen (Advil)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Soft foods",
+          "Oatmeal",
+          "Bananas",
+          "Soup",
+          "Plenty of water"
+        ],
+        "foods_to_avoid": [
+          "Spicy foods",
+          "Salty snacks",
+          "Acidic foods",
+          "Fried foods",
+          "Sugary drinks"
+        ],
+        "advice": "Keep skin clean, avoid scratching, and stay hydrated."
+      }
+    },
+    {
+      "name": "Dengue Fever",
+      "symptoms": [
+        "High fever",
+        "Severe headache",
+        "Joint pain",
+        "Muscle pain",
+        "Skin rash"
+      ],
+      "medicines": [
+        "Acetaminophen (Tylenol)",
+        "Paracetamol",
+        "ORS solution",
+        "IV fluids",
+        "Electrolyte supplements"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Papaya leaf juice",
+          "Coconut water",
+          "Pomegranate",
+          "Kiwi",
+          "Vegetable soup"
+        ],
+        "foods_to_avoid": [
+          "Fried foods",
+          "Spicy foods",
+          "Caffeinated drinks",
+          "Alcohol",
+          "Processed foods"
+        ],
+        "advice": "Stay hydrated and rest to help the body recover."
+      }
+    },
+    {
+      "name": "Malaria",
+      "symptoms": ["High fever", "Chills", "Sweating", "Headache", "Fatigue"],
+      "medicines": [
+        "Artemether-Lumefantrine",
+        "Chloroquine",
+        "Quinine",
+        "Doxycycline",
+        "Atovaquone-Proguanil"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Citrus fruits",
+          "Vegetable soups",
+          "Coconut water",
+          "Bananas",
+          "Light meals"
+        ],
+        "foods_to_avoid": [
+          "Fatty foods",
+          "Spicy foods",
+          "Alcohol",
+          "Sugary drinks",
+          "Fried foods"
+        ],
+        "advice": "Ensure proper hydration and complete the full course of medication."
+      }
+    },
+    {
+      "name": "Tuberculosis",
+      "symptoms": [
+        "Persistent cough",
+        "Weight loss",
+        "Night sweats",
+        "Fever",
+        "Fatigue"
+      ],
+      "medicines": [
+        "Isoniazid",
+        "Rifampicin",
+        "Ethambutol",
+        "Pyrazinamide",
+        "Streptomycin"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Protein-rich foods",
+          "Milk and dairy",
+          "Eggs",
+          "Whole grains",
+          "Fruits and vegetables"
+        ],
+        "foods_to_avoid": [
+          "Alcohol",
+          "Processed foods",
+          "Sugary drinks",
+          "Excess fried foods",
+          "Smoking"
+        ],
+        "advice": "Maintain a high-protein diet and strictly follow prescribed treatment."
+      }
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": [
+        "Chest pain",
+        "Cough with phlegm",
+        "Fever",
+        "Shortness of breath",
+        "Fatigue"
+      ],
+      "medicines": [
+        "Azithromycin (Zithromax)",
+        "Amoxicillin (Amoxil)",
+        "Levofloxacin (Levaquin)",
+        "Ibuprofen (Advil)",
+        "Acetaminophen (Tylenol)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Warm soups",
+          "Garlic",
+          "Ginger tea",
+          "Citrus fruits",
+          "Protein-rich foods"
+        ],
+        "foods_to_avoid": [
+          "Fried foods",
+          "Cold drinks",
+          "Sugary beverages",
+          "Alcohol",
+          "Processed foods"
+        ],
+        "advice": "Rest well, stay hydrated, and follow prescribed antibiotics completely."
+      }
+    },
+    {
+      "name": "Sinusitis",
+      "symptoms": [
+        "Facial pain",
+        "Nasal congestion",
+        "Headache",
+        "Runny nose",
+        "Post nasal drip"
+      ],
+      "medicines": [
+        "Amoxicillin-Clavulanate (Augmentin)",
+        "Pseudoephedrine (Sudafed)",
+        "Loratadine (Claritin)",
+        "Ibuprofen (Advil)",
+        "Fluticasone nasal spray (Flonase)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Warm herbal tea",
+          "Garlic",
+          "Ginger",
+          "Chicken soup",
+          "Spicy broth"
+        ],
+        "foods_to_avoid": [
+          "Cold foods",
+          "Sugary foods",
+          "Alcohol",
+          "Processed foods",
+          "Dairy products"
+        ],
+        "advice": "Use steam inhalation and drink warm liquids to relieve congestion."
+      }
+    },
+    {
+      "name": "Appendicitis",
+      "symptoms": [
+        "Severe abdominal pain",
+        "Loss of appetite",
+        "Nausea",
+        "Vomiting",
+        "Fever"
+      ],
+      "medicines": [
+        "Piperacillin-Tazobactam",
+        "Ceftriaxone",
+        "Metronidazole",
+        "Acetaminophen (Tylenol)",
+        "Ibuprofen (Advil)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Clear liquids",
+          "Vegetable broth",
+          "Soft foods",
+          "Bananas",
+          "Plain rice"
+        ],
+        "foods_to_avoid": [
+          "Fried foods",
+          "Spicy foods",
+          "Heavy meals",
+          "Alcohol",
+          "Processed foods"
+        ],
+        "advice": "Seek immediate medical care as appendicitis often requires surgery."
+      }
+    },
+    {
+      "name": "Peptic Ulcer Disease",
+      "symptoms": [
+        "Burning stomach pain",
+        "Bloating",
+        "Heartburn",
+        "Nausea",
+        "Loss of appetite"
+      ],
+      "medicines": [
+        "Omeprazole (Prilosec)",
+        "Lansoprazole (Prevacid)",
+        "Amoxicillin",
+        "Clarithromycin",
+        "Bismuth subsalicylate"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Bananas",
+          "Oatmeal",
+          "Yogurt",
+          "Honey",
+          "Leafy vegetables"
+        ],
+        "foods_to_avoid": [
+          "Spicy foods",
+          "Coffee",
+          "Alcohol",
+          "Fried foods",
+          "Chocolate"
+        ],
+        "advice": "Avoid spicy foods and follow medication schedule strictly."
+      }
+    },
+    {
+      "name": "Eczema",
+      "symptoms": [
+        "Dry skin",
+        "Itching",
+        "Red rash",
+        "Skin swelling",
+        "Skin cracking"
+      ],
+      "medicines": [
+        "Hydrocortisone cream",
+        "Tacrolimus ointment",
+        "Antihistamines",
+        "Prednisone",
+        "Moisturizing creams"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Omega-3 rich fish",
+          "Probiotic yogurt",
+          "Leafy vegetables",
+          "Berries",
+          "Whole grains"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Sugary foods",
+          "Dairy if sensitive",
+          "Fried foods",
+          "Artificial additives"
+        ],
+        "advice": "Keep skin moisturized and avoid known allergens."
+      }
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": [
+        "Red patches on skin",
+        "Dry cracked skin",
+        "Itching",
+        "Burning sensation",
+        "Thickened nails"
+      ],
+      "medicines": [
+        "Topical corticosteroids",
+        "Calcipotriene",
+        "Methotrexate",
+        "Cyclosporine",
+        "Biologic injections"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Fish rich in omega-3",
+          "Leafy vegetables",
+          "Fruits",
+          "Olive oil",
+          "Whole grains"
+        ],
+        "foods_to_avoid": [
+          "Alcohol",
+          "Processed foods",
+          "Sugary snacks",
+          "Red meat",
+          "Fried foods"
+        ],
+        "advice": "Maintain healthy weight and reduce inflammation through diet."
+      }
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": [
+        "Joint pain",
+        "Joint stiffness",
+        "Reduced flexibility",
+        "Swelling",
+        "Bone tenderness"
+      ],
+      "medicines": [
+        "Ibuprofen (Advil)",
+        "Naproxen (Aleve)",
+        "Acetaminophen (Tylenol)",
+        "Celecoxib (Celebrex)",
+        "Diclofenac"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Fatty fish",
+          "Leafy greens",
+          "Nuts",
+          "Berries",
+          "Olive oil"
+        ],
+        "foods_to_avoid": [
+          "Sugary foods",
+          "Processed foods",
+          "Excess salt",
+          "Fried foods",
+          "Alcohol"
+        ],
+        "advice": "Maintain healthy weight and perform regular low impact exercise."
+      }
+    },
+    {
+      "name": "Depression",
+      "symptoms": [
+        "Persistent sadness",
+        "Loss of interest",
+        "Fatigue",
+        "Sleep problems",
+        "Difficulty concentrating"
+      ],
+      "medicines": [
+        "Fluoxetine (Prozac)",
+        "Sertraline (Zoloft)",
+        "Escitalopram (Lexapro)",
+        "Bupropion (Wellbutrin)",
+        "Paroxetine (Paxil)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Omega-3 rich fish",
+          "Dark chocolate",
+          "Bananas",
+          "Whole grains",
+          "Nuts"
+        ],
+        "foods_to_avoid": [
+          "Alcohol",
+          "Processed foods",
+          "Sugary snacks",
+          "Excess caffeine",
+          "Fast food"
+        ],
+        "advice": "Maintain balanced nutrition and seek professional support when needed."
+      }
+    },
+    {
+      "name": "Insomnia",
+      "symptoms": [
+        "Difficulty falling asleep",
+        "Frequent waking",
+        "Daytime fatigue",
+        "Irritability",
+        "Difficulty concentrating"
+      ],
+      "medicines": [
+        "Melatonin",
+        "Zolpidem (Ambien)",
+        "Eszopiclone (Lunesta)",
+        "Diphenhydramine (Benadryl)",
+        "Doxepin"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Warm milk",
+          "Bananas",
+          "Almonds",
+          "Herbal tea",
+          "Whole grains"
+        ],
+        "foods_to_avoid": [
+          "Caffeine",
+          "Alcohol",
+          "Sugary drinks",
+          "Heavy meals at night",
+          "Spicy foods"
+        ],
+        "advice": "Maintain a consistent sleep schedule and avoid screen exposure before bed."
+      }
+    },
+    {
+      "name": "Kidney Stones",
+      "symptoms": [
+        "Severe back pain",
+        "Blood in urine",
+        "Nausea",
+        "Frequent urination",
+        "Burning during urination"
+      ],
+      "medicines": [
+        "Tamsulosin (Flomax)",
+        "Ibuprofen (Advil)",
+        "Naproxen (Aleve)",
+        "Potassium citrate",
+        "Acetaminophen (Tylenol)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Plenty of water",
+          "Citrus fruits",
+          "Leafy vegetables",
+          "Whole grains",
+          "Low salt foods"
+        ],
+        "foods_to_avoid": [
+          "High sodium foods",
+          "Excess animal protein",
+          "Sugary drinks",
+          "Oxalate rich foods",
+          "Processed foods"
+        ],
+        "advice": "Drink plenty of water daily to prevent stone formation."
+      }
+    },
+    {
+      "name": "Conjunctivitis (Pink Eye)",
+      "symptoms": [
+        "Red eyes",
+        "Itchy eyes",
+        "Watery discharge",
+        "Burning sensation in eyes",
+        "Swollen eyelids"
+      ],
+      "medicines": [
+        "Olopatadine (Patanol)",
+        "Ketotifen (Zaditor)",
+        "Artificial tears",
+        "Erythromycin ophthalmic ointment",
+        "Polymyxin B/Trimethoprim eye drops"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Carrots",
+          "Spinach",
+          "Citrus fruits",
+          "Almonds",
+          "Sweet potatoes"
+        ],
+        "foods_to_avoid": [
+          "Sugary foods",
+          "Processed foods",
+          "Alcohol",
+          "Excess fried foods",
+          "Artificial additives"
+        ],
+        "advice": "Maintain eye hygiene, avoid touching the eyes, and wash hands frequently."
+      }
+    },
+    {
+      "name": "Gout",
+      "symptoms": [
+        "Severe joint pain",
+        "Redness in joints",
+        "Swelling",
+        "Warm sensation in joints",
+        "Limited joint movement"
+      ],
+      "medicines": [
+        "Allopurinol (Zyloprim)",
+        "Colchicine",
+        "Ibuprofen (Advil)",
+        "Naproxen (Aleve)",
+        "Febuxostat (Uloric)"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Cherries",
+          "Whole grains",
+          "Low-fat dairy",
+          "Vegetables",
+          "Water"
+        ],
+        "foods_to_avoid": [
+          "Red meat",
+          "Organ meats",
+          "Alcohol",
+          "Sugary beverages",
+          "Seafood high in purines"
+        ],
+        "advice": "Drink plenty of water and avoid foods high in purines."
+      }
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain",
+        "Cold sensitivity",
+        "Dry skin",
+        "Depression"
+      ],
+      "medicines": [
+        "Levothyroxine (Synthroid)",
+        "Liothyronine (Cytomel)",
+        "Desiccated thyroid extract",
+        "Vitamin D supplements",
+        "Selenium supplements"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Seafood",
+          "Eggs",
+          "Nuts",
+          "Whole grains",
+          "Dairy products"
+        ],
+        "foods_to_avoid": [
+          "Soy products",
+          "Excess cabbage",
+          "Processed foods",
+          "Sugary snacks",
+          "Alcohol"
+        ],
+        "advice": "Maintain balanced iodine intake and follow medication regularly."
+      }
+    },
+    {
+      "name": "Hyperthyroidism",
+      "symptoms": [
+        "Rapid heartbeat",
+        "Weight loss",
+        "Sweating",
+        "Anxiety",
+        "Tremors"
+      ],
+      "medicines": [
+        "Methimazole (Tapazole)",
+        "Propylthiouracil",
+        "Propranolol",
+        "Atenolol",
+        "Radioactive iodine therapy"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Calcium-rich foods",
+          "Leafy greens",
+          "Whole grains",
+          "Fresh fruits",
+          "Lean protein"
+        ],
+        "foods_to_avoid": [
+          "High iodine foods",
+          "Caffeine",
+          "Alcohol",
+          "Processed foods",
+          "Sugary drinks"
+        ],
+        "advice": "Maintain balanced diet and monitor thyroid hormone levels regularly."
+      }
+    },
+    {
+      "name": "Pancreatitis",
+      "symptoms": [
+        "Upper abdominal pain",
+        "Nausea",
+        "Vomiting",
+        "Fever",
+        "Rapid pulse"
+      ],
+      "medicines": [
+        "Acetaminophen (Tylenol)",
+        "Ibuprofen (Advil)",
+        "Morphine",
+        "Pancreatic enzyme supplements",
+        "Antibiotics"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Low-fat foods",
+          "Vegetables",
+          "Whole grains",
+          "Lean proteins",
+          "Clear liquids"
+        ],
+        "foods_to_avoid": [
+          "Alcohol",
+          "Fried foods",
+          "High-fat meals",
+          "Processed foods",
+          "Sugary drinks"
+        ],
+        "advice": "Follow a low-fat diet and avoid alcohol completely."
+      }
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": [
+        "Fatigue",
+        "Jaundice",
+        "Abdominal pain",
+        "Dark urine",
+        "Loss of appetite"
+      ],
+      "medicines": [
+        "Tenofovir",
+        "Entecavir",
+        "Interferon alpha",
+        "Lamivudine",
+        "Adefovir"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Fruits",
+          "Vegetables",
+          "Whole grains",
+          "Lean protein",
+          "Plenty of water"
+        ],
+        "foods_to_avoid": [
+          "Alcohol",
+          "Fatty foods",
+          "Processed foods",
+          "Sugary drinks",
+          "Excess salt"
+        ],
+        "advice": "Maintain liver-friendly diet and avoid alcohol."
+      }
+    },
+    {
+      "name": "Gallstones",
+      "symptoms": [
+        "Upper abdominal pain",
+        "Nausea",
+        "Vomiting",
+        "Indigestion",
+        "Bloating"
+      ],
+      "medicines": [
+        "Ursodiol",
+        "Chenodiol",
+        "Ibuprofen (Advil)",
+        "Acetaminophen (Tylenol)",
+        "Antispasmodics"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "High fiber foods",
+          "Fruits",
+          "Vegetables",
+          "Whole grains",
+          "Healthy fats"
+        ],
+        "foods_to_avoid": [
+          "Fried foods",
+          "Fatty meats",
+          "Sugary desserts",
+          "Processed foods",
+          "Excess dairy"
+        ],
+        "advice": "Maintain healthy weight and avoid high-fat meals."
+      }
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": [
+        "Tremors",
+        "Slow movement",
+        "Muscle stiffness",
+        "Balance problems",
+        "Speech changes"
+      ],
+      "medicines": [
+        "Levodopa",
+        "Carbidopa",
+        "Pramipexole",
+        "Ropinirole",
+        "Selegiline"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Whole grains",
+          "Leafy greens",
+          "Berries",
+          "Nuts",
+          "Fish rich in omega-3"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Sugary drinks",
+          "Alcohol",
+          "Excess saturated fats",
+          "Fast food"
+        ],
+        "advice": "Maintain balanced diet and engage in regular physical activity."
+      }
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "symptoms": [
+        "Memory loss",
+        "Confusion",
+        "Difficulty completing tasks",
+        "Language problems",
+        "Mood changes"
+      ],
+      "medicines": [
+        "Donepezil (Aricept)",
+        "Rivastigmine (Exelon)",
+        "Galantamine (Razadyne)",
+        "Memantine (Namenda)",
+        "Vitamin E supplements"
+      ],
+      "diet_plan": {
+        "foods_to_take": [
+          "Blueberries",
+          "Leafy greens",
+          "Fish",
+          "Olive oil",
+          "Whole grains"
+        ],
+        "foods_to_avoid": [
+          "Processed foods",
+          "Sugary snacks",
+          "Alcohol",
+          "Trans fats",
+          "Fast food"
+        ],
+        "advice": "Follow Mediterranean diet and maintain cognitive stimulation."
+      }
+    },
+    {
+      "name": "Celiac Disease",
+      "symptoms": [
+        "Abdominal pain",
+        "Diarrhea",
+        "Bloating",
+        "Fatigue",
+        "Weight loss"
+      ],
+      "medicines": [
+        "Dapsone",
+        "Vitamin D supplements",
+        "Iron supplements",
+        "Calcium supplements",
+        "Folic acid"
+      ],
+      "diet_plan": {
+        "foods_to_take": ["Rice", "Corn", "Quinoa", "Vegetables", "Lean meat"],
+        "foods_to_avoid": [
+          "Wheat",
+          "Barley",
+          "Rye",
+          "Processed gluten foods",
+          "Certain sauces containing gluten"
+        ],
+        "advice": "Strictly follow a gluten-free diet."
+      }
+    },
+    {
+    "name": "Typhoid Fever",
+    "symptoms": [
+        "High fever",
+        "Weakness",
+        "Abdominal pain",
+        "Headache",
+        "Loss of appetite"
+    ],
+    "medicines": [
+        "Ciprofloxacin",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Paracetamol",
+        "Amoxicillin"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Boiled rice",
+            "Bananas",
+            "Coconut water",
+            "Vegetable soup",
+            "Yogurt"
+        ],
+        "foods_to_avoid": [
+            "Spicy foods",
+            "Fried foods",
+            "Raw vegetables",
+            "Caffeinated drinks",
+            "Alcohol"
+        ],
+        "advice": "Drink plenty of fluids and follow a soft, easily digestible diet."
+    }
+},
+{
+    "name": "Measles",
+    "symptoms": [
+        "High fever",
+        "Skin rash",
+        "Runny nose",
+        "Red eyes",
+        "Cough"
+    ],
+    "medicines": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Vitamin A supplements",
+        "Antihistamines",
+        "Cough syrup"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fruit juices",
+            "Vegetable soups",
+            "Bananas",
+            "Soft foods",
+            "Plenty of water"
+        ],
+        "foods_to_avoid": [
+            "Spicy foods",
+            "Fried foods",
+            "Sugary drinks",
+            "Processed foods",
+            "Caffeinated beverages"
+        ],
+        "advice": "Ensure adequate hydration and vitamin intake to support recovery."
+    }
+},
+{
+    "name": "Mumps",
+    "symptoms": [
+        "Swollen salivary glands",
+        "Fever",
+        "Headache",
+        "Muscle aches",
+        "Fatigue"
+    ],
+    "medicines": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Acetaminophen",
+        "Pain relievers",
+        "Anti-inflammatory drugs"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Soft foods",
+            "Soup",
+            "Mashed potatoes",
+            "Smoothies",
+            "Plenty of fluids"
+        ],
+        "foods_to_avoid": [
+            "Acidic foods",
+            "Spicy foods",
+            "Crunchy foods",
+            "Fried foods",
+            "Sugary snacks"
+        ],
+        "advice": "Eat soft foods and maintain hydration while resting adequately."
+    }
+},
+{
+    "name": "Whooping Cough (Pertussis)",
+    "symptoms": [
+        "Severe coughing fits",
+        "Runny nose",
+        "Fever",
+        "Vomiting after coughing",
+        "Fatigue"
+    ],
+    "medicines": [
+        "Azithromycin",
+        "Clarithromycin",
+        "Erythromycin",
+        "Paracetamol",
+        "Cough suppressants"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Warm soups",
+            "Herbal tea",
+            "Honey",
+            "Soft foods",
+            "Warm water"
+        ],
+        "foods_to_avoid": [
+            "Cold drinks",
+            "Fried foods",
+            "Sugary foods",
+            "Caffeinated drinks",
+            "Alcohol"
+        ],
+        "advice": "Drink warm liquids and rest to reduce coughing episodes."
+    }
+},
+{
+    "name": "Rheumatoid Arthritis",
+    "symptoms": [
+        "Joint pain",
+        "Joint swelling",
+        "Morning stiffness",
+        "Fatigue",
+        "Reduced mobility"
+    ],
+    "medicines": [
+        "Methotrexate",
+        "Hydroxychloroquine",
+        "Sulfasalazine",
+        "Ibuprofen",
+        "Prednisone"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fatty fish",
+            "Leafy vegetables",
+            "Whole grains",
+            "Berries",
+            "Nuts"
+        ],
+        "foods_to_avoid": [
+            "Processed foods",
+            "Sugary foods",
+            "Red meat",
+            "Fried foods",
+            "Alcohol"
+        ],
+        "advice": "Follow an anti-inflammatory diet and maintain regular physical activity."
+    }
+},
+{
+    "name": "Chronic Kidney Disease",
+    "symptoms": [
+        "Fatigue",
+        "Swelling in legs",
+        "Shortness of breath",
+        "Nausea",
+        "Loss of appetite"
+    ],
+    "medicines": [
+        "Lisinopril",
+        "Losartan",
+        "Furosemide",
+        "Calcium carbonate",
+        "Erythropoietin"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Low-sodium foods",
+            "Fresh fruits",
+            "Vegetables",
+            "Whole grains",
+            "Lean protein"
+        ],
+        "foods_to_avoid": [
+            "High salt foods",
+            "Processed foods",
+            "Red meat",
+            "Sugary drinks",
+            "Alcohol"
+        ],
+        "advice": "Maintain a kidney-friendly diet and control blood pressure."
+    }
+},
+{
+    "name": "Liver Cirrhosis",
+    "symptoms": [
+        "Fatigue",
+        "Jaundice",
+        "Swelling in legs",
+        "Abdominal pain",
+        "Loss of appetite"
+    ],
+    "medicines": [
+        "Spironolactone",
+        "Furosemide",
+        "Lactulose",
+        "Propranolol",
+        "Vitamin supplements"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fresh fruits",
+            "Vegetables",
+            "Whole grains",
+            "Lean protein",
+            "Low sodium foods"
+        ],
+        "foods_to_avoid": [
+            "Alcohol",
+            "Fatty foods",
+            "Processed foods",
+            "Sugary drinks",
+            "Excess salt"
+        ],
+        "advice": "Avoid alcohol completely and follow a low-sodium diet."
+    }
+},
+{
+    "name": "Food Allergy",
+    "symptoms": [
+        "Hives",
+        "Swelling",
+        "Itching",
+        "Nausea",
+        "Difficulty breathing"
+    ],
+    "medicines": [
+        "Diphenhydramine",
+        "Loratadine",
+        "Cetirizine",
+        "Epinephrine injection",
+        "Prednisone"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fresh fruits",
+            "Vegetables",
+            "Rice",
+            "Lean proteins",
+            "Plenty of water"
+        ],
+        "foods_to_avoid": [
+            "Allergy-triggering foods",
+            "Processed foods",
+            "Artificial additives",
+            "Sugary drinks",
+            "Fast food"
+        ],
+        "advice": "Avoid trigger foods and carry emergency medication if necessary."
+    }
+},
+{
+    "name": "Heat Stroke",
+    "symptoms": [
+        "High body temperature",
+        "Confusion",
+        "Rapid heartbeat",
+        "Headache",
+        "Dizziness"
+    ],
+    "medicines": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Electrolyte solutions",
+        "IV fluids",
+        "Cooling therapy"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Watermelon",
+            "Coconut water",
+            "Electrolyte drinks",
+            "Cucumbers",
+            "Fresh fruits"
+        ],
+        "foods_to_avoid": [
+            "Alcohol",
+            "Caffeinated drinks",
+            "Spicy foods",
+            "Fried foods",
+            "Sugary beverages"
+        ],
+        "advice": "Stay hydrated and avoid prolonged exposure to heat."
+    }
+},
+{
+    "name": "Obesity",
+    "symptoms": [
+        "Excess body fat",
+        "Fatigue",
+        "Shortness of breath",
+        "Joint pain",
+        "High blood pressure"
+    ],
+    "medicines": [
+        "Orlistat",
+        "Phentermine",
+        "Liraglutide",
+        "Semaglutide",
+        "Bupropion-Naltrexone"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Vegetables",
+            "Whole grains",
+            "Lean protein",
+            "Fruits",
+            "Low-fat dairy"
+        ],
+        "foods_to_avoid": [
+            "Sugary drinks",
+            "Fried foods",
+            "Processed snacks",
+            "Fast food",
+            "High-calorie desserts"
+        ],
+        "advice": "Maintain a calorie-controlled diet and regular exercise routine."
+    }
+},{
+    "name": "Cholera",
+    "symptoms": [
+        "Severe diarrhea",
+        "Dehydration",
+        "Vomiting",
+        "Muscle cramps",
+        "Rapid heart rate"
+    ],
+    "medicines": [
+        "Oral Rehydration Salts (ORS)",
+        "Azithromycin",
+        "Doxycycline",
+        "Ciprofloxacin",
+        "Zinc supplements"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Rice porridge",
+            "Bananas",
+            "Coconut water",
+            "Boiled potatoes",
+            "Clear soups"
+        ],
+        "foods_to_avoid": [
+            "Fried foods",
+            "Spicy foods",
+            "Sugary drinks",
+            "Alcohol",
+            "Raw seafood"
+        ],
+        "advice": "Rehydrate frequently and consume easily digestible foods."
+    }
+},
+{
+    "name": "Influenza (Flu)",
+    "symptoms": [
+        "Fever",
+        "Body aches",
+        "Chills",
+        "Cough",
+        "Fatigue"
+    ],
+    "medicines": [
+        "Oseltamivir (Tamiflu)",
+        "Zanamivir (Relenza)",
+        "Paracetamol",
+        "Ibuprofen",
+        "Cough suppressants"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Chicken soup",
+            "Ginger tea",
+            "Citrus fruits",
+            "Honey",
+            "Warm broths"
+        ],
+        "foods_to_avoid": [
+            "Cold drinks",
+            "Fried foods",
+            "Sugary snacks",
+            "Alcohol",
+            "Processed foods"
+        ],
+        "advice": "Rest well and drink plenty of warm fluids."
+    }
+},
+{
+    "name": "Ringworm",
+    "symptoms": [
+        "Circular skin rash",
+        "Itching",
+        "Red patches",
+        "Skin peeling",
+        "Burning sensation"
+    ],
+    "medicines": [
+        "Clotrimazole",
+        "Terbinafine",
+        "Ketoconazole",
+        "Miconazole",
+        "Griseofulvin"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fresh fruits",
+            "Leafy vegetables",
+            "Garlic",
+            "Probiotic yogurt",
+            "Whole grains"
+        ],
+        "foods_to_avoid": [
+            "Sugary foods",
+            "Processed foods",
+            "Alcohol",
+            "Fried foods",
+            "Excess dairy"
+        ],
+        "advice": "Keep affected area clean and dry."
+    }
+},
+{
+    "name": "Scabies",
+    "symptoms": [
+        "Intense itching",
+        "Skin rash",
+        "Small red bumps",
+        "Skin irritation",
+        "Worsening itching at night"
+    ],
+    "medicines": [
+        "Permethrin cream",
+        "Ivermectin",
+        "Crotamiton",
+        "Antihistamines",
+        "Sulfur ointment"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fresh vegetables",
+            "Fruits",
+            "Whole grains",
+            "Plenty of water",
+            "Garlic"
+        ],
+        "foods_to_avoid": [
+            "Sugary foods",
+            "Processed foods",
+            "Fried foods",
+            "Alcohol",
+            "Fast food"
+        ],
+        "advice": "Maintain hygiene and wash clothing and bedding regularly."
+    }
+},
+{
+    "name": "Bronchial Asthma",
+    "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Chest tightness",
+        "Coughing",
+        "Difficulty breathing"
+    ],
+    "medicines": [
+        "Albuterol",
+        "Budesonide",
+        "Montelukast",
+        "Fluticasone",
+        "Ipratropium"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fruits rich in vitamin C",
+            "Leafy vegetables",
+            "Omega-3 rich fish",
+            "Whole grains",
+            "Nuts"
+        ],
+        "foods_to_avoid": [
+            "Processed foods",
+            "Sulfite-containing foods",
+            "Fried foods",
+            "Sugary drinks",
+            "Excess salt"
+        ],
+        "advice": "Avoid allergens and maintain a healthy lifestyle."
+    }
+},
+{
+    "name": "Acne Vulgaris",
+    "symptoms": [
+        "Pimples",
+        "Blackheads",
+        "Whiteheads",
+        "Oily skin",
+        "Skin inflammation"
+    ],
+    "medicines": [
+        "Benzoyl peroxide",
+        "Adapalene",
+        "Tretinoin",
+        "Clindamycin",
+        "Doxycycline"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fresh fruits",
+            "Leafy greens",
+            "Whole grains",
+            "Green tea",
+            "Water"
+        ],
+        "foods_to_avoid": [
+            "Sugary foods",
+            "Fried foods",
+            "Excess dairy",
+            "Processed snacks",
+            "Fast food"
+        ],
+        "advice": "Maintain good skin hygiene and avoid excessive oily foods."
+    }
+},
+{
+    "name": "Vertigo",
+    "symptoms": [
+        "Spinning sensation",
+        "Dizziness",
+        "Nausea",
+        "Loss of balance",
+        "Headache"
+    ],
+    "medicines": [
+        "Meclizine",
+        "Dimenhydrinate",
+        "Betahistine",
+        "Diazepam",
+        "Prochlorperazine"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Ginger tea",
+            "Fresh fruits",
+            "Whole grains",
+            "Vegetables",
+            "Water"
+        ],
+        "foods_to_avoid": [
+            "Alcohol",
+            "Caffeine",
+            "Sugary drinks",
+            "Processed foods",
+            "High salt foods"
+        ],
+        "advice": "Move slowly and stay hydrated."
+    }
+},
+{
+    "name": "Varicose Veins",
+    "symptoms": [
+        "Swollen veins",
+        "Leg pain",
+        "Heaviness in legs",
+        "Skin discoloration",
+        "Leg cramps"
+    ],
+    "medicines": [
+        "Diosmin",
+        "Horse chestnut extract",
+        "Aspirin",
+        "Ibuprofen",
+        "Pentoxifylline"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fiber-rich foods",
+            "Leafy greens",
+            "Berries",
+            "Whole grains",
+            "Citrus fruits"
+        ],
+        "foods_to_avoid": [
+            "High salt foods",
+            "Processed foods",
+            "Fried foods",
+            "Sugary drinks",
+            "Alcohol"
+        ],
+        "advice": "Exercise regularly and elevate legs to improve circulation."
+    }
+},
+{
+    "name": "Motion Sickness",
+    "symptoms": [
+        "Nausea",
+        "Vomiting",
+        "Dizziness",
+        "Cold sweats",
+        "Headache"
+    ],
+    "medicines": [
+        "Dimenhydrinate",
+        "Meclizine",
+        "Scopolamine",
+        "Promethazine",
+        "Ginger supplements"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Ginger tea",
+            "Crackers",
+            "Bananas",
+            "Apples",
+            "Water"
+        ],
+        "foods_to_avoid": [
+            "Heavy meals",
+            "Greasy foods",
+            "Alcohol",
+            "Sugary drinks",
+            "Spicy foods"
+        ],
+        "advice": "Sit facing forward and avoid reading while traveling."
+    }
+},
+{
+    "name": "Hemorrhoids (Piles)",
+    "symptoms": [
+        "Rectal bleeding",
+        "Anal itching",
+        "Pain during bowel movements",
+        "Swelling around anus",
+        "Discomfort while sitting"
+    ],
+    "medicines": [
+        "Hydrocortisone cream",
+        "Lidocaine ointment",
+        "Witch hazel pads",
+        "Docusate sodium",
+        "Psyllium fiber"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "High fiber foods",
+            "Whole grains",
+            "Vegetables",
+            "Fruits",
+            "Plenty of water"
+        ],
+        "foods_to_avoid": [
+            "Spicy foods",
+            "Processed foods",
+            "Alcohol",
+            "Fried foods",
+            "Low fiber foods"
+        ],
+        "advice": "Increase fiber intake and avoid prolonged sitting."
+    }
+},{
+    "name": "Hand, Foot and Mouth Disease",
+    "symptoms": [
+        "Fever",
+        "Sore throat",
+        "Painful mouth sores",
+        "Skin rash on hands and feet",
+        "Loss of appetite"
+    ],
+    "medicines": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Lidocaine oral gel",
+        "Antihistamines",
+        "Calamine lotion"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Cold milk",
+            "Yogurt",
+            "Smoothies",
+            "Soft foods",
+            "Coconut water"
+        ],
+        "foods_to_avoid": [
+            "Spicy foods",
+            "Acidic fruits",
+            "Salty snacks",
+            "Fried foods",
+            "Hot beverages"
+        ],
+        "advice": "Consume soft foods and maintain hydration."
+    }
+},
+{
+    "name": "Laryngitis",
+    "symptoms": [
+        "Hoarse voice",
+        "Sore throat",
+        "Dry cough",
+        "Difficulty speaking",
+        "Throat irritation"
+    ],
+    "medicines": [
+        "Ibuprofen",
+        "Paracetamol",
+        "Cough lozenges",
+        "Prednisone",
+        "Antihistamines"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Warm herbal tea",
+            "Honey",
+            "Chicken soup",
+            "Warm water",
+            "Ginger tea"
+        ],
+        "foods_to_avoid": [
+            "Cold drinks",
+            "Alcohol",
+            "Caffeinated drinks",
+            "Fried foods",
+            "Spicy foods"
+        ],
+        "advice": "Rest your voice and drink warm fluids."
+    }
+},
+{
+    "name": "Tonsillitis",
+    "symptoms": [
+        "Sore throat",
+        "Difficulty swallowing",
+        "Fever",
+        "Swollen tonsils",
+        "Bad breath"
+    ],
+    "medicines": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ibuprofen",
+        "Paracetamol",
+        "Cough lozenges"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Warm soup",
+            "Honey tea",
+            "Mashed potatoes",
+            "Yogurt",
+            "Soft fruits"
+        ],
+        "foods_to_avoid": [
+            "Spicy foods",
+            "Crunchy snacks",
+            "Acidic fruits",
+            "Fried foods",
+            "Cold drinks"
+        ],
+        "advice": "Drink warm fluids and rest the throat."
+    }
+},
+{
+    "name": "Otitis Media (Ear Infection)",
+    "symptoms": [
+        "Ear pain",
+        "Fever",
+        "Hearing difficulty",
+        "Fluid drainage from ear",
+        "Headache"
+    ],
+    "medicines": [
+        "Amoxicillin",
+        "Ibuprofen",
+        "Acetaminophen",
+        "Cefuroxime",
+        "Antihistamines"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Warm soups",
+            "Garlic",
+            "Ginger tea",
+            "Vegetables",
+            "Fruits"
+        ],
+        "foods_to_avoid": [
+            "Sugary foods",
+            "Processed foods",
+            "Cold beverages",
+            "Fried foods",
+            "Alcohol"
+        ],
+        "advice": "Maintain hydration and avoid cold exposure."
+    }
+},
+{
+    "name": "Dehydration",
+    "symptoms": [
+        "Dry mouth",
+        "Dizziness",
+        "Fatigue",
+        "Dark urine",
+        "Rapid heartbeat"
+    ],
+    "medicines": [
+        "Oral Rehydration Salts (ORS)",
+        "Electrolyte solutions",
+        "IV fluids",
+        "Zinc supplements",
+        "Potassium supplements"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Coconut water",
+            "Watermelon",
+            "Cucumber",
+            "Electrolyte drinks",
+            "Bananas"
+        ],
+        "foods_to_avoid": [
+            "Alcohol",
+            "Caffeine",
+            "Sugary drinks",
+            "Fried foods",
+            "Salty snacks"
+        ],
+        "advice": "Drink fluids regularly and replenish electrolytes."
+    }
+},
+{
+    "name": "Hypoglycemia",
+    "symptoms": [
+        "Sweating",
+        "Dizziness",
+        "Shakiness",
+        "Hunger",
+        "Confusion"
+    ],
+    "medicines": [
+        "Glucose tablets",
+        "Glucagon injection",
+        "Dextrose solution",
+        "Insulin adjustment",
+        "Oral glucose gel"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Fruit juice",
+            "Honey",
+            "Bananas",
+            "Whole grains",
+            "Nuts"
+        ],
+        "foods_to_avoid": [
+            "Alcohol",
+            "Sugary junk food",
+            "Processed snacks",
+            "High caffeine drinks",
+            "Skipping meals"
+        ],
+        "advice": "Eat small frequent meals to maintain blood sugar."
+    }
+},
+{
+    "name": "Hyperlipidemia",
+    "symptoms": [
+        "Chest pain",
+        "Fatigue",
+        "Shortness of breath",
+        "Yellowish skin deposits",
+        "High cholesterol levels"
+    ],
+    "medicines": [
+        "Atorvastatin",
+        "Rosuvastatin",
+        "Simvastatin",
+        "Ezetimibe",
+        "Niacin"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Oats",
+            "Fatty fish",
+            "Nuts",
+            "Olive oil",
+            "Fruits"
+        ],
+        "foods_to_avoid": [
+            "Fried foods",
+            "Processed meat",
+            "Sugary drinks",
+            "Fast food",
+            "Trans fats"
+        ],
+        "advice": "Maintain low cholesterol diet and regular exercise."
+    }
+},
+{
+    "name": "Coronary Artery Disease",
+    "symptoms": [
+        "Chest pain",
+        "Shortness of breath",
+        "Fatigue",
+        "Heart palpitations",
+        "Dizziness"
+    ],
+    "medicines": [
+        "Aspirin",
+        "Atorvastatin",
+        "Metoprolol",
+        "Nitroglycerin",
+        "Clopidogrel"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Whole grains",
+            "Leafy greens",
+            "Fish",
+            "Nuts",
+            "Olive oil"
+        ],
+        "foods_to_avoid": [
+            "Fried foods",
+            "Processed foods",
+            "Sugary drinks",
+            "Excess salt",
+            "Red meat"
+        ],
+        "advice": "Follow heart healthy diet and regular exercise."
+    }
+},
+{
+    "name": "Glaucoma",
+    "symptoms": [
+        "Blurred vision",
+        "Eye pain",
+        "Headache",
+        "Nausea",
+        "Loss of peripheral vision"
+    ],
+    "medicines": [
+        "Timolol eye drops",
+        "Latanoprost",
+        "Brimonidine",
+        "Dorzolamide",
+        "Acetazolamide"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Leafy greens",
+            "Carrots",
+            "Citrus fruits",
+            "Nuts",
+            "Fish"
+        ],
+        "foods_to_avoid": [
+            "Caffeine",
+            "Sugary drinks",
+            "Processed foods",
+            "Alcohol",
+            "Fried foods"
+        ],
+        "advice": "Regular eye checkups and balanced diet help protect vision."
+    }
+},
+{
+    "name": "Cataract",
+    "symptoms": [
+        "Blurred vision",
+        "Sensitivity to light",
+        "Difficulty seeing at night",
+        "Faded colors",
+        "Double vision"
+    ],
+    "medicines": [
+        "Antioxidant supplements",
+        "Vitamin C supplements",
+        "Vitamin E supplements",
+        "Lutein supplements",
+        "Artificial tears"
+    ],
+    "diet_plan": {
+        "foods_to_take": [
+            "Carrots",
+            "Spinach",
+            "Citrus fruits",
+            "Almonds",
+            "Fish"
+        ],
+        "foods_to_avoid": [
+            "Sugary foods",
+            "Processed foods",
+            "Alcohol",
+            "Fried foods",
+            "Smoking"
+        ],
+        "advice": "Eat antioxidant rich foods to support eye health."
+    }
+}
+  ]
+}

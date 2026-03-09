@@ -1,0 +1,112 @@
+{
+    "Diseases_and_Conditions": [],
+    "Symptoms": [
+        {
+            "text": "headache",
+            "confidence": 0.9999,
+            "label": "B-Sign_symptom"
+        }
+    ],
+    "Medications": [
+        {
+            "text": "ib",
+            "confidence": 0.9998,
+            "label": "B-Medication"
+        },
+        {
+            "text": "##up",
+            "confidence": 0.997,
+            "label": "I-Medication"
+        },
+        {
+            "text": "##ro",
+            "confidence": 0.9993,
+            "label": "I-Medication"
+        },
+        {
+            "text": "##fen",
+            "confidence": 0.999,
+            "label": "I-Medication"
+        }
+    ],
+    "Diagnostic_Tests": [
+        {
+            "text": "mri",
+            "confidence": 1.0,
+            "label": "B-Diagnostic_procedure"
+        }
+    ],
+    "Body_Parts": [],
+    "Others": [
+        {
+            "text": "45",
+            "confidence": 0.9996,
+            "label": "B-Age"
+        },
+        {
+            "text": "-",
+            "confidence": 0.997,
+            "label": "I-Age"
+        },
+        {
+            "text": "year",
+            "confidence": 0.9979,
+            "label": "I-Age"
+        },
+        {
+            "text": "old",
+            "confidence": 0.9965,
+            "label": "I-Age"
+        },
+        {
+            "text": "male",
+            "confidence": 0.9992,
+            "label": "B-Sex"
+        },
+        {
+            "text": "presenting",
+            "confidence": 0.772,
+            "label": "B-Clinical_event"
+        },
+        {
+            "text": "severe",
+            "confidence": 0.9998,
+            "label": "B-Severity"
+        },
+        {
+            "text": "hyper",
+            "confidence": 0.9641,
+            "label": "B-History"
+        },
+        {
+            "text": "##tension",
+            "confidence": 0.9975,
+            "label": "I-History"
+        },
+        {
+            "text": "type",
+            "confidence": 0.9657,
+            "label": "B-History"
+        },
+        {
+            "text": "2",
+            "confidence": 0.9971,
+            "label": "I-History"
+        },
+        {
+            "text": "diabetes",
+            "confidence": 0.9939,
+            "label": "I-History"
+        },
+        {
+            "text": "400",
+            "confidence": 0.9986,
+            "label": "B-Dosage"
+        },
+        {
+            "text": "##mg",
+            "confidence": 0.9977,
+            "label": "I-Dosage"
+        }
+    ]
+}
