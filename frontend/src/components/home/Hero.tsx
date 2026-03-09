@@ -24,7 +24,7 @@ export const Hero: React.FC = () => {
                         </h1>
 
                         <p className="text-xl md:text-2xl text-[var(--secondary-600)] leading-relaxed max-w-3xl font-medium">
-                            Instant symptom analysis, accurate medical report explanations, and personalized health guidance—available 24/7. Your trusted health companion.
+                            Instant symptom analysis, and personalized health guidance—available 24/7. Your trusted health companion.
                         </p>
 
                         <div className="flex flex-col sm:flex-row items-center gap-5 justify-center w-full mt-4">
